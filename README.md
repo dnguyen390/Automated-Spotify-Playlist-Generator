@@ -7,7 +7,7 @@ This is a simple Python based script that utilizes both the Spotify Web and YouT
 * [Requests Library v 2.22.0]
 * [Youtube_dl v 2020.01.24]
 
-## LocalSetup
+## Installation and Setup Tutorial
 1) Install All Dependencies   
 `pip3 install -r requirements.txt`
 
@@ -27,15 +27,10 @@ This is a simple Python based script that utilizes both the Spotify Web and YouT
     * click on it and log into your Google Account to collect the `authorization code`
 
 
-## ToDo
-* Tests
-* Add Error Handling
-
 ## Troubleshooting
 * Spotify Oauth token expires very quickly, If you come across a `KeyError` this could
 be caused by an expired token. To remedy this, refer back to step 3 in local setup, and generate a new
 token.  
-
 
 
 
