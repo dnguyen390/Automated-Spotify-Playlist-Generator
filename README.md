@@ -18,8 +18,8 @@ This is a simple Python based script that utilizes both the Spotify Web and YouT
     ![alt text](images/spotify_token.png)
 
 3) Enable Oauth For Youtube and download the client_secrets.json   
-    * Ok this part is tricky but its worth it! Just follow the guide here [Set Up Youtube Oauth] ! 
-    If you are having issues check this out [Oauth Setup 2] and this one too [Oauth Setup 3] 
+    * This part is a bit tricky, but it's worth it! Just follow the guide here [Set Up Youtube Oauth] 
+    If you are having issues, check this out [Oauth Setup 2] and this one too [Oauth Setup 3] 
 
 4) Run the File  
 `python3 create_playlist.py`   
